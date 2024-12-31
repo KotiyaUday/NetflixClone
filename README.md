@@ -10,7 +10,7 @@ A responsive website that replicates the design and functionality of the Netflix
 - **Clean Codebase**: Well-structured and readable code for easy understanding and updates.
 
 ## Demo
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://kotiyauday.github.io/NetflixClone/)
 
 ## Tech Stack
 
@@ -22,7 +22,7 @@ A responsive website that replicates the design and functionality of the Netflix
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
+   git clone https://github.com/KotiyaUday/NetflixClone.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -33,10 +33,7 @@ A responsive website that replicates the design and functionality of the Netflix
 ## How to Use
 
 1. Open the website in your browser.
-2. Explore the various sections, including:
-   - Home page with featured content.
-   - Navigation menu.
-   - Interactive sliders (if implemented).
+2. Explore the various sections.
 
 ## Acknowledgments
 
